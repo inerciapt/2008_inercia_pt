@@ -1,0 +1,42 @@
+﻿.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #999999;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	padding: 0px 0px 0px 0px;
+	background-color: #00000;
+	link:color: #CCCCCC 
+}
+
+a {
+	text-decoration: none;
+}
+a:active     { 
+	color: #EEEEEE 
+}
+a:link       { 
+	color: #EEEEEE 
+}
+a:visited    { 
+	color: #EEEEEE
+}
+a:hover		 { 
+	color: #777777
+}
+body {
+	background-color: #000000;
+}
